@@ -210,7 +210,7 @@ Past Experience:
 
 Whether you're looking to discuss **Cloud Security**, **AI Security Research**, **DevSecOps Automation**, or potential collaborations:
 
-<a href="https://www.linkedin.com/in/someshwar-s"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/soms36"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:someshsuresh007@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/soms36-DefSec"><img src="https://img.shields.io/badge/GitHub-Follow%20@soms36--DefSec-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
