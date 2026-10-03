@@ -21,7 +21,7 @@
 
 ## 🛡️ Executive Summary
 
-I am a **Cloud & AI Security Professional** and **DevSecOps Engineer** with deep foundational expertise in **Security Operations (SOC)** and cloud infrastructure protection. I specialize in bridging the gap between infrastructure automation and defensive/offensive security practices.
+I am a **Cloud & AI Security learner** and **DevSecOps Engineer** with deep foundational expertise in **Security Operations (SOC)** and cloud infrastructure protection. I specialize in bridging the gap between infrastructure automation and defensive/offensive security practices.
 
 - 🔭 **Current Focus**: Architecting autonomous AI security scanners (**LLM-IaC-Security**) and developing behavior-based endpoint telemetry systems (**InsiEDR** - funded project under **MeitY**).
 - ☁️ **Cloud Defense**: Hardening AWS ecosystems (**IAM, VPC, KMS, GuardDuty, CloudTrail**) and enforcing policy-as-code via **Terraform** & **GitHub Actions**.
