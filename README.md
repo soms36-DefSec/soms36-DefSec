@@ -9,6 +9,7 @@
 </a>
 
 <p align="center">
+  <a href="https://soms36-defsec.github.io/My_Profile/"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-soms36--defsec.github.io-FF2A4B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio"/></a>
   <a href="https://www.linkedin.com/in/soms36"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:someshsuresh007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Focus-Cloud%20Security%20%26%20DevSecOps%20Learner-00b894?style=for-the-badge" alt="Learner"/>
@@ -27,6 +28,17 @@ I am a **Computer Science undergraduate** at **SASTRA University** ('27) and an 
 - 🛠️ **Hands-on Projects**: Working on practical implementations including **LLM-IaC-Security** (automated IaC vulnerability scanning) and an **Insider Threat Detection & EDR System** (student project under **MeitY**).
 - 🎓 **Education**: B.Tech in Computer Science & Engineering @ **SASTRA University** (*2023 - 2027*).
 - 🤝 **Leadership & Activities**: **Project Lead & Core Member** @ **Association of Computing Engineers (ACE)**, coordinating technical clusters and student workshops.
+
+<div align="center">
+  <br/>
+  <a href="https://soms36-defsec.github.io/My_Profile/#projects">
+    <img src="https://img.shields.io/badge/🚀%20Explore%20My%20Interactive%20Portfolio-Projects%20%26%20Live%20Demos-111111?style=for-the-badge&logo=firefoxbrowser&logoColor=FF2A4B&labelColor=0d1117" alt="Explore Projects Live"/>
+  </a>
+  <p>
+    👉 <i>Check out live interactive UI demos, architecture breakdowns & security builds on my personal portfolio:</i><br/>
+    <b><a href="https://soms36-defsec.github.io/My_Profile/">Someshwar S (SOMS) — Cybersecurity, Systems & AI Builder ↗</a></b>
+  </p>
+</div>
 
 ---
 
@@ -84,6 +96,8 @@ I am a **Computer Science undergraduate** at **SASTRA University** ('27) and an 
 
 ## 🚀 Projects
 
+> 💡 *Want interactive UI demos and deep architectural walkthroughs? Check them out directly on my **[Personal Portfolio Website ↗](https://soms36-defsec.github.io/My_Profile/#projects)**.*
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -100,6 +114,7 @@ I am a **Computer Science undergraduate** at **SASTRA University** ('27) and an 
       <p align="center">
         <a href="https://github.com/soms36-DefSec/InsiEDR_Server"><img src="https://img.shields.io/badge/Repo-InsiEDR__Server-00d2d3?style=flat-square&logo=github"/></a>
         <a href="https://github.com/soms36-DefSec/InsiEDR_agent"><img src="https://img.shields.io/badge/Repo-InsiEDR__agent-00d2d3?style=flat-square&logo=github"/></a>
+        <a href="https://soms36-defsec.github.io/My_Profile/#projects"><img src="https://img.shields.io/badge/Demo-Portfolio_Showcase-FF2A4B?style=flat-square&logo=googlechrome"/></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -115,6 +130,7 @@ I am a **Computer Science undergraduate** at **SASTRA University** ('27) and an 
       </ul>
       <p align="center">
         <a href="https://github.com/soms36-DefSec/llm-iac-security"><img src="https://img.shields.io/badge/Repo-llm--iac--security-ff4757?style=flat-square&logo=github"/></a>
+        <a href="https://soms36-defsec.github.io/My_Profile/#projects"><img src="https://img.shields.io/badge/Demo-Portfolio_Showcase-FF2A4B?style=flat-square&logo=googlechrome"/></a>
       </p>
     </td>
   </tr>
@@ -206,7 +222,8 @@ Past Experience:
 
 Whether you'd like to discuss **Cloud Security**, **DevSecOps**, **AI Security learning**, or project collaborations:
 
-<a href="https://www.linkedin.com/in/someshwar-s"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://soms36-defsec.github.io/My_Profile/"><img src="https://img.shields.io/badge/Portfolio-Live%20Website-FF2A4B?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/soms36"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:someshsuresh007@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/soms36-DefSec"><img src="https://img.shields.io/badge/GitHub-Follow%20@soms36--DefSec-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
