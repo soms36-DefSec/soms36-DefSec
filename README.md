@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Hero Banner (Self-hosted on GitHub, 100% Uptime & Fast Loading) -->
-<a href="https://soms36-defsec.github.io/My_Profile/">
-  <img src="https://raw.githubusercontent.com/soms36-DefSec/soms36-DefSec/main/assets/banner.svg" width="100%" alt="Someshwar S - SOC Analyst & Detection Engineer"/>
-</a>
+<!-- Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,25&height=220&section=header&text=Someshwar%20S&fontSize=52&fontColor=ff2a4b&animation=fadeIn&desc=SOC%20%7C%20Detection%20Engineer&descSize=20&descAlignY=68&descAlign=50" width="100%" alt="Someshwar S Banner"/>
 
 <!-- Dynamic Animated Typing Header -->
 <a href="https://git.io/typing-svg">
@@ -228,6 +226,8 @@ Whether you'd like to discuss **SOC Operations**, **Detection Engineering**, **C
 <a href="mailto:someshsuresh0306@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/soms36-DefSec"><img src="https://img.shields.io/badge/GitHub-Follow%20@soms36--DefSec-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, rgba(255, 23, 68, 0), rgba(255, 23, 68, 0.75), rgba(255, 23, 68, 0));"/>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,25&height=120&section=footer" width="100%"/>
 
 </div>
